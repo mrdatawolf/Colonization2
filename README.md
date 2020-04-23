@@ -1,4 +1,4 @@
-![alt text](https://github.com/mrdatawolf/Colonization/blob/master/SETradeHouse_logo_core.png?raw=true)
+![SE Tradehouse Logo](https://github.com/mrdatawolf/Colonization/blob/master/public/images/SETradeHouse_logo_core.png?raw=true)
 # SE TradeHouse [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Tradehouse for Space Engineers - is a standalone web service allowing a user to see trade data for perticipating Space Engineers (SE) Servers.  The goal is to display data to help a user smartly position themselves in their choosen SE Server's markets. Whether the user is running their own trades or are simply looking to maximze their profits; this system will help them understand the market forces in play and give guidance on the setting up the best trade positions.
